@@ -2,6 +2,7 @@
 
 ### 大图加载
 #### CATiledLayer技术
+https://www.jianshu.com/p/ee0628629f92
 
 ### 图片合成
 
